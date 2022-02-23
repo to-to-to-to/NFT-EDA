@@ -37,6 +37,13 @@ The dataset consists of the following information:
 * This data was scraped from https://coinmarketcap.com/nft/collections/
 * The cover image was downloaded from https://unsplash.com/@tezos
 
+### Related Stacks
+
+* **Numpy** : https://numpy.org/
+* **Pandas** : https://pandas.pydata.org/
+* **Seaborn** : https://seaborn.pydata.org/
+* **Plotly** : https://plotly.com/
+
 ### Feedback
 
 If you have any feedback, please reach out to me at vitorihaldijiran14@gmail.com
