@@ -8,7 +8,7 @@ The goal of this project is I want to **Give Insights from the dataset about the
   <img src="https://c.tenor.com/uHVmd0uBuU0AAAAC/bored-ape-yacht-club-nft.gif"/>
 </p>
 
-### Dataset Information
+## Dataset Information
 
 This dataset was created via Python using the requests, json, and pandas libraries. **The information was pulled on January 16, 2022, and represents all time information for the top NFT collections**. As an example, the Sales column represents all sales under a specified NFT collection from its creation up until January 16, 2022.
 
@@ -32,19 +32,19 @@ The dataset consists of the following information:
 * **Website**: The associated website of the NFT collection.
 * **Logo**: The associated image of the NFT collection.
 
-### Sources
+## Sources
 
 * This data was scraped from https://coinmarketcap.com/nft/collections/
 * The cover image was downloaded from https://unsplash.com/@tezos
 
-### Related Stacks
+## Related Stacks
 
 * **Numpy** : https://numpy.org/
 * **Pandas** : https://pandas.pydata.org/
 * **Seaborn** : https://seaborn.pydata.org/
 * **Plotly** : https://plotly.com/
 
-### Feedback
+## Feedback
 
 If you have any feedback, please reach out to me at vitorihaldijiran14@gmail.com
 
