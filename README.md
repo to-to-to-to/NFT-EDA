@@ -45,11 +45,9 @@ Since the Github performs a static render of the notebooks and it doesn't includ
   https://nbviewer.org/github/to-to-to-to/NFT-EDA/blob/master/main.ipynb
 ```
 
-<!-- ## Example of The Viz
+## Example of The Viz
 
-<p align="center">
-  <img src="https://c.tenor.com/uHVmd0uBuU0AAAAC/bored-ape-yacht-club-nft.gif"/>
-</p> -->
+![Screenshot](demo_images.png)
 
 ## Related Stacks
 
