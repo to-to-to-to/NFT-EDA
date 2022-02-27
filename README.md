@@ -1,7 +1,7 @@
 # About This Project
 
 In This Project, From The NFT Collection Dataset (https://www.kaggle.com/nenamalikah/nft-collections-by-sales-volume),
-I want to do the **Exploratory Data Analysis** about it using Data Manipulation Libraries such as **Numpy, Pandas, Seaborn, Plotly, etc**. 
+I want to do the **Exploratory Data Analysis** about it using Data Manipulation Libraries such as **Numpy, Pandas, and Plotly**. 
 The goal of this project is I want to **Give Insights from the dataset about the NFT Stats**, so after you reading this you will gain informations from the report provided about the NFT.
 
 <p align="center">
@@ -41,7 +41,6 @@ The dataset consists of the following information:
 
 * **Numpy** : https://numpy.org/
 * **Pandas** : https://pandas.pydata.org/
-* **Seaborn** : https://seaborn.pydata.org/
 * **Plotly** : https://plotly.com/
 
 ## Feedback
