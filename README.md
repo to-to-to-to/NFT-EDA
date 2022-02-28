@@ -42,7 +42,7 @@ The dataset consists of the following information:
 Since the Github performs a static render of the notebooks and it doesn't include the embedded HTML/JavaScript that makes up a plotly graph (https://github.com/plotly/plotly.py/issues/931#issuecomment-417642992), you can access the full notebook with the Vizualization through this link. 
 
 ```bash
-  https://nbviewer.org/github/to-to-to-to/NFT-EDA/blob/master/main.ipynb
+  https://nbviewer.org/github/to-to-to-to/NFT-EDA/blob/master/main.ipynb?flush_cache=true
 ```
 
 ## Example of The Viz
